@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\FinalProject\Entites\bin\Debug\net5.0\Entites.deps.json
+C:\Users\Admin\source\repos\FinalProject\Entites\bin\Debug\net5.0\Entites.dll
+C:\Users\Admin\source\repos\FinalProject\Entites\bin\Debug\net5.0\ref\Entites.dll
+C:\Users\Admin\source\repos\FinalProject\Entites\bin\Debug\net5.0\Entites.pdb
+C:\Users\Admin\source\repos\FinalProject\Entites\obj\Debug\net5.0\Entites.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\FinalProject\Entites\obj\Debug\net5.0\Entites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\FinalProject\Entites\obj\Debug\net5.0\Entites.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FinalProject\Entites\obj\Debug\net5.0\Entites.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FinalProject\Entites\obj\Debug\net5.0\Entites.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FinalProject\Entites\obj\Debug\net5.0\Entites.dll
+C:\Users\Admin\source\repos\FinalProject\Entites\obj\Debug\net5.0\ref\Entites.dll
+C:\Users\Admin\source\repos\FinalProject\Entites\obj\Debug\net5.0\Entites.pdb
+C:\Users\Admin\source\repos\FinalProject\Entites\bin\Debug\net5.0\Core.dll
+C:\Users\Admin\source\repos\FinalProject\Entites\bin\Debug\net5.0\Core.pdb
+C:\Users\Admin\source\repos\FinalProject\Entites\obj\Debug\net5.0\Entites.csproj.CopyComplete
